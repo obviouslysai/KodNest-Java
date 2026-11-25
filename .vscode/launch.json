@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckGreater",
+      "request": "launch",
+      "mainClass": "CheckGreater",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
       "name": "Demo4",
       "request": "launch",
       "mainClass": "Demo4",
