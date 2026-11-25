@@ -1,4 +1,4 @@
-public class CheckPositiveOrNegative {
+public class CheckPositiveOrNegativeOrZero {
     public static void main(String[] args) {
         int num = -8;
         if (num > 0) {
