@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckPositiveOrNegative",
+      "request": "launch",
+      "mainClass": "CheckPositiveOrNegative",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
       "name": "CheckGreater",
       "request": "launch",
       "mainClass": "CheckGreater",
