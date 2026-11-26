@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Grade",
+      "request": "launch",
+      "mainClass": "Grade",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
       "name": "Switch",
       "request": "launch",
       "mainClass": "Switch",
