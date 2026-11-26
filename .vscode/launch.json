@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
       "name": "ElectricityBillCalculator",
       "request": "launch",
       "mainClass": "ElectricityBillCalculator",
