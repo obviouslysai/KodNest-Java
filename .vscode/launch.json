@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "EvenOdd",
+      "request": "launch",
+      "mainClass": "Terinary.EvenOdd",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
+      "name": "EvenOdd",
+      "request": "launch",
+      "mainClass": "EvenOdd",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
       "name": "Ternary",
       "request": "launch",
       "mainClass": "Ternary",
