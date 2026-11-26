@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ternary",
+      "request": "launch",
+      "mainClass": "Ternary",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
+      "name": "GradeSwitch",
+      "request": "launch",
+      "mainClass": "GradeSwitch",
+      "projectName": "KodNest-Java_f62338bb"
+    },
+    {
+      "type": "java",
       "name": "Grade",
       "request": "launch",
       "mainClass": "Grade",
